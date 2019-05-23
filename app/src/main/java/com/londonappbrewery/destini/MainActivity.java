@@ -24,7 +24,6 @@ public class MainActivity extends AppCompatActivity {
         mTopButton = findViewById(R.id.buttonTop);
         mBottomButton = findViewById(R.id.buttonBottom);
 
-
         // listener on the top button:
         mTopButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -50,22 +49,8 @@ public class MainActivity extends AppCompatActivity {
                 } else if(mStoryIndex == 3){
                     updateIndex(5); //T5_END
                 }
-
-                /*if(mStoryIndex == 1) {
-                    mStoryIndex = 2;
-                    mTextView.setText(R.string.T2_Story_ES);
-                    mTopButton.setText(R.string.T2_Ans1_ES);
-                    mBottomButton.setText(R.string.T2_Ans2_ES);
-                } else if(mStoryIndex == 3){
-                    mStoryIndex = 5;
-                    mTextView.setText(R.string.T5_End_ES);
-                    //ocultar botones
-                    mTopButton.setVisibility(View.GONE);
-                    mBottomButton.setVisibility(View.GONE);
-                }*/
             }
         });
-
     }
 
     private void updateIndex(int index){
