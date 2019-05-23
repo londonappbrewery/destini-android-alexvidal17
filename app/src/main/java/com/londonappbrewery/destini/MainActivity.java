@@ -31,8 +31,8 @@ public class MainActivity extends AppCompatActivity {
                 if(mStoryIndex == 1) {
                     updateIndex(3); //T3_STORY
                 } else if(mStoryIndex == 2){
-                    updateIndex(3); //T6_END
-                } else if(mStoryIndex == 3){
+                    updateIndex(3); //T3_STORY
+                } else { // mStoryIndex == 3
                     updateIndex(6); //T6_END
                 }
             }
@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
                     updateIndex(2); //T2_STORY
                 } else if(mStoryIndex == 2){
                     updateIndex(4); //T4_END
-                } else if(mStoryIndex == 3){
+                } else { // mStoryIndex == 3
                     updateIndex(5); //T5_END
                 }
             }
