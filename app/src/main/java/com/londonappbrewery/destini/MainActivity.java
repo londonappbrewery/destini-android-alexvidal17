@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
     private Button mTopButton;
     private Button mBottomButton;
 
-    int mStoryIndex = 1;
+    private int mStoryIndex = 1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
