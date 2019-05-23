@@ -30,10 +30,10 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 if(mStoryIndex == 1) {
                     updateIndex(3); //T3_STORY
-                } else if(mStoryIndex == 3){
-                    updateIndex(6); //T6_END
                 } else if(mStoryIndex == 2){
                     updateIndex(3); //T6_END
+                } else if(mStoryIndex == 3){
+                    updateIndex(6); //T6_END
                 }
             }
         });
