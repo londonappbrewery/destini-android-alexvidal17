@@ -56,29 +56,29 @@ public class MainActivity extends AppCompatActivity {
     private void updateIndex(int index){
         if(index == 2){
             mStoryIndex = 2;
-            mTextView.setText(R.string.T2_Story_ES);
-            mTopButton.setText(R.string.T2_Ans1_ES);
-            mBottomButton.setText(R.string.T2_Ans2_ES);
+            mTextView.setText(R.string.T2_Story);
+            mTopButton.setText(R.string.T2_Ans1);
+            mBottomButton.setText(R.string.T2_Ans2);
         } else if(index == 3) {
             mStoryIndex = 3;
-            mTextView.setText(R.string.T3_Story_ES);
-            mTopButton.setText(R.string.T3_Ans1_ES);
-            mBottomButton.setText(R.string.T3_Ans2_ES);
+            mTextView.setText(R.string.T3_Story);
+            mTopButton.setText(R.string.T3_Ans1);
+            mBottomButton.setText(R.string.T3_Ans2);
         } else if(index == 4){
             mStoryIndex = 4;
-            mTextView.setText(R.string.T4_End_ES);
+            mTextView.setText(R.string.T4_End);
             //ocultar botones
             mTopButton.setVisibility(View.GONE);
             mBottomButton.setVisibility(View.GONE);
         } else if(index == 5){
             mStoryIndex = 5;
-            mTextView.setText(R.string.T5_End_ES);
+            mTextView.setText(R.string.T5_End);
             //ocultar botones
             mTopButton.setVisibility(View.GONE);
             mBottomButton.setVisibility(View.GONE);
         } else if(index == 6){
             mStoryIndex = 6;
-            mTextView.setText(R.string.T6_End_ES);
+            mTextView.setText(R.string.T6_End);
             //ocultar botones
             mTopButton.setVisibility(View.GONE);
             mBottomButton.setVisibility(View.GONE);

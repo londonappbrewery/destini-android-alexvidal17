@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Destini</string>
+
+    <string name="T1_Ans2">"Mejor pregúntale primero si es un asesino. "</string>
+    <string name="T1_Ans1">"Sí, por favor. Gracias por la ayuda! "</string>
+    <string name="T1_Story">Tu coche ha quemado una llanta en un camino sinuoso en el medio de la nada sin cobertura en el móvil. Decides hacer autostop. Una camioneta oxidada retumba a tu lado. Un hombre con un sombrero abre la puerta del pasajero y te pregunta: \"¿Necesitas que te lleve, muchacho?\".</string>
+
+    <string name="T2_Ans1">Al menos es honesto. Voy a subir.</string>
+    <string name="T2_Ans2">Espera, sé cómo cambiar un neumático.</string>
+    <string name="T2_Story">Él asiente lentamente, sin contestar la pregunta.</string>
+
+    <string name="T3_Ans1">¡Me encanta Elton John! Dale la cinta de cassette.</string>
+    <string name="T3_Ans2">¡Es él o yo! Coges el cuchillo y lo apuñalas.</string>
+    <string name="T3_Story">Cuando empiezáis a conducir, el extraño comienza a hablar sobre su relación con su madre. Él se pone más y más furioso por el momento. Te pide que abras la guantera. Dentro encuentras un cuchillo ensangrentado, dos dedos cortados y una cinta de cassette de Elton John. Alcanza la guantera.</string>
+
+    <string name="T4_End">Cuando empiezáis a conducir, el extraño comienza a hablar sobre su relación con su madre. Él se pone más y más furioso por el momento. Te pide que abras la guantera. Dentro encuentras un cuchillo ensangrentado, dos dedos cortados y una cinta de cassette de Elton John. Alcanza la guantera.</string>
+    <string name="T5_End">A medida que rompes el quitamiedos y avanzas hacia las rocas escarpadas que hay debajo, reflexionas sobre el hecho de apuñalar a alguien mientras conduce.</string>
+    <string name="T6_End">Te alías con el asesino mientras cantas versos de \"¿Puedes sentir el amor esta noche?\". Te deja en la siguiente ciudad. Antes de irte te pregunta si conoces algún buen lugar para dejar los cuerpos. Respondes: \"Prueba el muelle\".</string>
+</resources>
